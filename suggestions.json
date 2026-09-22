@@ -1,255 +1,286 @@
 {
-  "generated_at": "2026-09-22T19:07:10+00:00",
-  "source": "initial-package",
+  "generated_at": "2026-09-22T19:25:12+00:00",
+  "source": "TMDB",
+  "count": 20,
   "movies": [
     {
-      "id": "seed-01",
-      "title": "The Fundamentals of Caring",
-      "year": 2016,
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 7.3,
-      "description": "Warmherziges Roadmovie über Freundschaft, Verantwortung und neue Perspektiven.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-02",
-      "title": "The Big Sick",
-      "year": 2017,
-      "genres": [
-        "Romantik",
-        "Komödie"
-      ],
-      "rating": 7.5,
-      "description": "Eine ungewöhnliche Liebesgeschichte zwischen Familie, Kultur und einer ernsten Krise.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-03",
-      "title": "Brittany Runs a Marathon",
-      "year": 2019,
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 6.8,
-      "description": "Eine junge Frau krempelt ihr Leben um – humorvoll, direkt und menschlich.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-04",
-      "title": "The Farewell",
-      "year": 2019,
+      "id": "tmdb-278",
+      "title": "Die Verurteilten",
+      "year": 1994,
       "genres": [
         "Drama",
-        "Komödie"
-      ],
-      "rating": 7.5,
-      "description": "Feinfühliges Familiendrama mit leisem Humor und kulturellen Spannungen.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-05",
-      "title": "Hunt for the Wilderpeople",
-      "year": 2016,
-      "genres": [
-        "Komödie",
-        "Abenteuer"
-      ],
-      "rating": 7.8,
-      "description": "Schräges und herzliches Abenteuer über ein ungleiches Duo in der Wildnis.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-06",
-      "title": "The Peanut Butter Falcon",
-      "year": 2019,
-      "genres": [
-        "Drama",
-        "Abenteuer"
-      ],
-      "rating": 7.6,
-      "description": "Warmherziges Roadmovie über Freundschaft, Freiheit und einen großen Traum.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-07",
-      "title": "About Time",
-      "year": 2013,
-      "genres": [
-        "Romantik",
-        "Komödie",
-        "Fantasy"
-      ],
-      "rating": 7.8,
-      "description": "Romantische Geschichte über Zeit, Familie und die Bedeutung alltäglicher Momente.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-08",
-      "title": "The Nice Guys",
-      "year": 2016,
-      "genres": [
-        "Komödie",
         "Krimi"
       ],
-      "rating": 7.4,
-      "description": "Schwarzhumorige Detektivkomödie mit einem herrlich chaotischen Ermittlerduo.",
-      "kind": "Startvorschlag"
+      "rating": 8.7,
+      "description": "Das Shawshank Gefängnis in den 30ern: der wegen Mordes an seiner Frau verurteilte Andy Dufresne kommt als Neuling lebenslänglich hinter Gittern. Zurückhaltend wie er ist, ist er ständig das Ziel sexueller Angriffe, doch als er als Banker durchblicken läßt, daß er finanziell für den Direktor und die Wärter eine Menge tun kann, ist für seine Sicherheit gesorgt. Langsam aber sicher freundet er sich mit dem Langzeitinsassen Red an, baut die Gefängnisbibliothek auf und rückt nie von seiner Überzeugung ab, unschuldig zu sein. Viele Jahre vergehen, bis etwas geschieht, was sogar Reds Leben für immer verändern wird...",
+      "kind": "Geheimtipp",
+      "tmdb_id": 278
     },
     {
-      "id": "seed-09",
-      "title": "Game Night",
-      "year": 2018,
+      "id": "tmdb-980431",
+      "title": "Avatar Aang: Der Herr der Elemente",
+      "year": 2026,
       "genres": [
-        "Komödie",
-        "Krimi"
-      ],
-      "rating": 6.9,
-      "description": "Ein Spieleabend entwickelt sich zu einem rasanten echten Kriminalfall.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-10",
-      "title": "Chef",
-      "year": 2014,
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 7.3,
-      "description": "Wohlfühlfilm über Essen, Familie und einen beruflichen Neuanfang.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-11",
-      "title": "Sing Street",
-      "year": 2016,
-      "genres": [
-        "Musik",
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 7.9,
-      "description": "Coming-of-Age über Musik, erste Liebe und den Mut, etwas Eigenes zu schaffen.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-12",
-      "title": "The Secret Life of Walter Mitty",
-      "year": 2013,
-      "genres": [
+        "Animation",
         "Abenteuer",
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 7.3,
-      "description": "Inspirierendes Abenteuer über den Schritt aus dem Alltag ins echte Leben.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-13",
-      "title": "Begin Again",
-      "year": 2013,
-      "genres": [
-        "Musik",
-        "Romantik",
-        "Drama"
-      ],
-      "rating": 7.4,
-      "description": "Musik verbindet zwei Menschen in einer Geschichte über Neuanfang und Kreativität.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-14",
-      "title": "The Intern",
-      "year": 2015,
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 7.1,
-      "description": "Generationen treffen in einer charmanten Arbeitsplatzkomödie aufeinander.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-15",
-      "title": "Stardust",
-      "year": 2007,
-      "genres": [
         "Fantasy",
-        "Romantik",
-        "Abenteuer"
+        "Action"
       ],
-      "rating": 7.6,
-      "description": "Märchenhaftes Abenteuer voller Magie, Romantik und britischem Humor.",
-      "kind": "Startvorschlag"
+      "rating": 9.2,
+      "description": "Der Avatar Aang, der letzte Luftbändiger der Welt, erfährt von einer uralten Kraft, die seine Kultur vor dem Aussterben bewahren könnte. Gemeinsam mit seinen Freunden begibt er sich auf eine weltweite Suche, um diese Kraft zu finden, bevor sie in die falschen Hände gerät und den mühsam erkämpften Frieden gefährdet.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 980431
     },
     {
-      "id": "seed-16",
-      "title": "Instant Family",
-      "year": 2018,
+      "id": "tmdb-238",
+      "title": "Der Pate",
+      "year": 1972,
       "genres": [
-        "Komödie",
-        "Familie",
-        "Drama"
+        "Drama",
+        "Krimi"
       ],
-      "rating": 7.3,
-      "description": "Eine Familie wächst auf unerwartete und turbulente Weise zusammen.",
-      "kind": "Startvorschlag"
+      "rating": 8.7,
+      "description": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 238
     },
     {
-      "id": "seed-17",
-      "title": "The Way Way Back",
-      "year": 2013,
+      "id": "tmdb-1560520",
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "year": 2026,
       "genres": [
-        "Coming-of-Age",
-        "Komödie",
-        "Drama"
-      ],
-      "rating": 7.4,
-      "description": "Sommerliche Geschichte über Selbstvertrauen, Zugehörigkeit und Freundschaft.",
-      "kind": "Startvorschlag"
-    },
-    {
-      "id": "seed-18",
-      "title": "Safety Not Guaranteed",
-      "year": 2012,
-      "genres": [
-        "Komödie",
-        "Romantik",
+        "Animation",
+        "Action",
+        "Abenteuer",
         "Sci-Fi"
       ],
-      "rating": 6.9,
-      "description": "Skurrile Indie-Geschichte über eine ungewöhnliche Anzeige und mögliche Zeitreisen.",
-      "kind": "Startvorschlag"
+      "rating": 9.2,
+      "description": "Der übernatürlich starke und hochintelligente Superschurke Bane (Stimme im Original: Michael Mando) will dafür sorgen, dass Batman (Anson Mount) in Gotham City nie wieder für Recht und Ordnung sorgen kann. Um den Dunklen Ritter zu schwächen, befreit er dessen gefährlichste Gegner wie Joker, Scarecrow, Mad Hatter und Poison Ivy aus dem Hochsicherheitsgefängnis Arkham Asylum. Bei seinen Bemühungen, die wahnsinnigen Kriminellen wiedereinzufangen, stößt Batman an seine physischen und psychischen Grenzen – exakt so, wie von Bane beabsichtigt, der zwischenzeitlich Batmans wahre Identität als Millionär Bruce Wayne enttarnt hat und weiß, wo er seinen Gegner finden kann.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 1560520
     },
     {
-      "id": "seed-19",
-      "title": "Little Miss Sunshine",
-      "year": 2006,
+      "id": "tmdb-389",
+      "title": "Die zwölf Geschworenen",
+      "year": 1957,
       "genres": [
-        "Komödie",
         "Drama"
       ],
-      "rating": 7.8,
-      "description": "Eine eigenwillige Familie macht sich gemeinsam auf einen turbulenten Roadtrip.",
-      "kind": "Startvorschlag"
+      "rating": 8.6,
+      "description": "Zwölf Geschworene verhandeln im Juryraum in brütender Hitze über das Schicksal eines Jungen, der angeklagt ist, seinen Vater getötet zu haben. Als das Urteil \"Schuldig\" beinahe feststeht, formuliert der Geschworene Nr. 8 seine Zweifel. Gegen den teils erbitterten Widerstand der Mehrheit entwickelt er nach und nach mit ruhiger Logik seine Argumente. Der Kampf der Meinungen setzt unerwartete Vorurteile und Charakterzüge der zwölf Männer frei, deren Gewissensprüfungen für den Angeklagten ausfallen.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 389
     },
     {
-      "id": "seed-20",
-      "title": "Moonrise Kingdom",
-      "year": 2012,
+      "id": "tmdb-240",
+      "title": "Der Pate - Teil II",
+      "year": 1974,
       "genres": [
-        "Romantik",
-        "Komödie",
+        "Drama",
+        "Krimi"
+      ],
+      "rating": 8.6,
+      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 240
+    },
+    {
+      "id": "tmdb-687163",
+      "title": "Der Astronaut – Project Hail Mary",
+      "year": 2026,
+      "genres": [
+        "Sci-Fi",
+        "Abenteuer"
+      ],
+      "rating": 8.6,
+      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 687163
+    },
+    {
+      "id": "tmdb-936075",
+      "title": "Michael",
+      "year": 2026,
+      "genres": [
+        "Musik",
         "Drama"
       ],
-      "rating": 7.8,
-      "description": "Verspielte Geschichte über junge Liebe, Außenseiter und ein kleines Abenteuer.",
-      "kind": "Startvorschlag"
+      "rating": 8.6,
+      "description": "Der junge Michael Jackson wird als achtes von zehn Kindern unter der strengen Führung seines Vaters Joe früh für eine Musikkarriere gedrillt wird. Mit der Familienband Jackson Five feiert er erste Erfolge, im Alter von 13 Jahren startet er bereits die Solokarriere. Auch im Erwachsenenalter ist sein Leben von der Musik dominiert. Ende der 1970er-Jahre lernt er bei Filmarbeiten Diana Ross und den Produzenten Quincy Jones kennen, was seine musikalische Ausrichtung grundlegend verändert. Das von Jones produzierte Album \"Off the Wall\" (1979) wird ein großer Erfolg, der 1982 durch die bahnbrechende und meistverkaufte Platte \"Thriller\" noch übertroffen wird. Parallel zu diesem Aufstieg kommt es zum Bruch mit seinem Vater Joe, den Jackson als Manager entlässt und durch den Anwalt John Branca ersetzt.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 936075
+    },
+    {
+      "id": "tmdb-129",
+      "title": "Chihiros Reise ins Zauberland",
+      "year": 2001,
+      "genres": [
+        "Animation",
+        "Familie",
+        "Fantasy"
+      ],
+      "rating": 8.5,
+      "description": "Als die kleine Chihiro mit ihren Eltern während eines Ausflugs einen dunklen Tunnel durchquert, ahnt sie noch nicht, was sie auf der anderen Seite erwarten wird. Denn dort liegt eine für Menschen normalerweise unsichtbare Stadt der Geister. Zu allem Übel muss Chihiro dann auch noch feststellen, dass sich ihre Eltern in Schweine verwandelt haben und sie selbst plötzlich unsichtbar zu werden scheint...",
+      "kind": "Geheimtipp",
+      "tmdb_id": 129
+    },
+    {
+      "id": "tmdb-1007757",
+      "title": "Swapped – Getauscht",
+      "year": 2026,
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Familie",
+        "Fantasy"
+      ],
+      "rating": 8.9,
+      "description": "Ein winziger Waldbewohner und ein majestätischer Vogel tauschen plötzlich die Körper und müssen gemeinsam das wildeste Abenteuer ihres Lebens überstehen.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 1007757
+    },
+    {
+      "id": "tmdb-155",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Krimi"
+      ],
+      "rating": 8.5,
+      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 155
+    },
+    {
+      "id": "tmdb-497",
+      "title": "The Green Mile",
+      "year": 1999,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Krimi"
+      ],
+      "rating": 8.5,
+      "description": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
+      "kind": "Geheimtipp",
+      "tmdb_id": 497
+    },
+    {
+      "id": "tmdb-969681",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Abenteuer"
+      ],
+      "rating": 7.9,
+      "description": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 969681
+    },
+    {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "year": 2026,
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.0,
+      "description": "Ein unerklärliches kosmisches Ereignis reißt die Oak Street aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser für sie völlig fremden Umgebung schnell feststellen, dass sie nur dann überleben können, wenn sie eng zusammenstehen.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1101383
+    },
+    {
+      "id": "tmdb-1368337",
+      "title": "Die Odyssee",
+      "year": 2026,
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 8.0,
+      "description": "Folgt Odysseus, dem legendären griechischen König von Ithaka, auf seiner langen und gefährlichen Heimreise nach dem Trojanischen Krieg und schildert seine Begegnungen mit mythischen Wesen wie dem Zyklopen Polyphem, den Sirenen und der Hexengöttin Circe, während er versucht, wieder mit seiner Frau Penelope zusammenzukommen.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1368337
+    },
+    {
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "description": "Die Biotechnologie-Professorin Se-jeong nimmt an einer Konferenz teil, die ins Chaos stürzt, als ein schnell mutierendes Virus freigesetzt wird. Infizierte verwandeln sich, die Behörden riegeln das Gebäude ab, die Überlebenden sind einer wachsenden Bedrohung ausgeliefert.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1375646
+    },
+    {
+      "id": "tmdb-1108427",
+      "title": "Vaiana",
+      "year": 2026,
+      "genres": [
+        "Familie",
+        "Fantasy",
+        "Komödie",
+        "Abenteuer"
+      ],
+      "rating": 7.4,
+      "description": "Vaiana will unbedingt weit raus aufs offene Meer, endlich mal die Welt jenseits des Riffs sehen, das die Insel ihres Volkes umgibt. Doch keiner der Motunui-Stammesgenossen der 16 Jahre alten Prinzessin traut sich so wirklich, dieses Abenteuer einmal konsequent anzugehen - und auch ihr ist der Versuch, das Riff hinter sich zu lassen, verboten. Doch dann gerät das Inselvolk in eine Notlage, und die Nahrung beginnt, langsam knapp zu werden. Vaiana schmiedet deshalb einen Plan und setzt schließlich eines Tages auf eigene Faust in See. Mit an Bord sind der treudoofe Hahn Heihei und das Hausschwein Pua. Unterwegs offenbart sich ihr sogar noch der legendäre Halbgott Maui, dem sehr mächtige Fähigkeiten nachgesagt werden. Doch schnell stellt sich heraus, dass das mit den Kräften zwar nicht gelogen war, Maui aber eine ganz eigene Suppe angerührt hat, die er zusammen mit Vaiana nun erst mal auslöffeln muss...",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1108427
+    },
+    {
+      "id": "tmdb-1084244",
+      "title": "Toy Story 5",
+      "year": 2026,
+      "genres": [
+        "Animation",
+        "Familie",
+        "Komödie",
+        "Abenteuer"
+      ],
+      "rating": 8.4,
+      "description": "In Toy Story 5 von Disney•Pixar sind die Kult-Spielzeuge zurück – und diesmal trifft Spielzeug auf Technik. Woody, Buzz Lightyear, Jessie und der Rest der Bande stehen vor einer ganz neuen Herausforderung, als sie auf Lilypad treffen, ein funkelnagelneues Tablet, das sehr eigenwillige Vorstellungen davon hat, was für ihr Kind Bonnie am besten ist. Wird das Spielen jemals wieder so sein wie zuvor?",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1084244
+    },
+    {
+      "id": "tmdb-1339713",
+      "title": "Obsession - Du sollst mich lieben",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "description": "Als der hoffnungslose Romantiker Bear einen magischen Gegenstand nutzt, damit sein Crush endlich Gefühle für ihn entwickelt, muss er feststellen, dass manche Wünsche einen finsteren, unheimlichen Tribut fordern.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1339713
+    },
+    {
+      "id": "tmdb-1315772",
+      "title": "Minions & Monster",
+      "year": 2026,
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Komödie",
+        "Familie",
+        "Fantasy"
+      ],
+      "rating": 7.6,
+      "description": "MINIONS & MONSTER erzählt die abgefahrene, aberwitzige und natürlich absolut wahre Geschichte der Minions und wie sie Hollywood erobern, Filmstars werden, alles verlieren, Monster auf die Welt loslassen und sich dann heldenhaft daranmachen, den Planeten vor genau dem Chaos zu retten, das sie selbst angerichtet haben.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1315772
     }
   ]
 }
