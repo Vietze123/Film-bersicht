@@ -1,5 +1,8 @@
 # Deine persönliche Filmliste – Sonderedition
 
+Version S2: vollständig neutrale persönliche Ansprache und erneuerte
+PWA-Cache-Logik, damit nach GitHub-Updates keine ältere Seite sichtbar bleibt.
+
 Dieses Paket ist für das separate GitHub-Repository der Sonderedition gedacht.
 
 ## Enthalten

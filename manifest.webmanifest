@@ -1,7 +1,7 @@
 {
   "name": "Deine persönliche Filmliste – Sonderedition",
   "short_name": "Filmliste",
-  "start_url": "./",
+  "start_url": "./?version=s2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f7f4ff",

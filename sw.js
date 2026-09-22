@@ -1,4 +1,4 @@
-const CACHE = 'filmliste-sonderedition-s1';
+const CACHE = 'filmliste-sonderedition-s2';
 const CORE = [
   './',
   './index.html',
@@ -23,6 +23,21 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
   if (url.origin !== location.origin || event.request.method !== 'GET') return;
+
+  // Seitenaufrufe immer zuerst aus dem Netz laden. So bleibt nach einem
+  // GitHub-Update keine alte HTML-Version dauerhaft sichtbar.
+  if (event.request.mode === 'navigate' || url.pathname.endsWith('/index.html')) {
+    event.respondWith(
+      fetch(event.request, {cache:'no-store'})
+        .then(response => {
+          const copy = response.clone();
+          caches.open(CACHE).then(cache => cache.put('./index.html', copy));
+          return response;
+        })
+        .catch(() => caches.match('./index.html').then(cached => cached || caches.match('./')))
+    );
+    return;
+  }
 
   if (url.pathname.endsWith('/suggestions.json') || url.pathname.endsWith('/movies.json')) {
     event.respondWith(
