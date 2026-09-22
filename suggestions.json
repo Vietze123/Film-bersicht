@@ -1,162 +1,255 @@
-[
-  {
-    "title": "The Fundamentals of Caring",
-    "platform": "Netflix",
-    "genre": "Komödie / Drama",
-    "description": "Eine warmherzige Roadmovie-Komödie über Freundschaft und neue Perspektiven.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Map of Tiny Perfect Things",
-    "platform": "Prime",
-    "genre": "Romantik / Fantasy",
-    "description": "Eine romantische Zeitschleifen-Geschichte über kleine perfekte Momente.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Brittany Runs a Marathon",
-    "platform": "Prime",
-    "genre": "Komödie / Drama",
-    "description": "Eine junge Frau krempelt ihr Leben um – humorvoll und menschlich.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Big Sick",
-    "platform": "Prime",
-    "genre": "Romantik / Komödie",
-    "description": "Eine ungewöhnliche Liebesgeschichte zwischen Familie, Kultur und Krisen.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Palm Springs",
-    "platform": "Prime",
-    "genre": "Romantik / Komödie / Fantasy",
-    "description": "RomCom mit Zeitschleife, trockenem Humor und überraschend viel Herz.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Farewell",
-    "platform": "Prime",
-    "genre": "Drama / Komödie",
-    "description": "Feinfühliges Familiendrama mit leisem Humor und kulturellen Spannungen.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Hunt for the Wilderpeople",
-    "platform": "Netflix",
-    "genre": "Komödie / Abenteuer",
-    "description": "Schräges, herzliches Abenteuer über ein ungleiches Duo in der Wildnis.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Peanut Butter Falcon",
-    "platform": "Prime",
-    "genre": "Drama / Abenteuer",
-    "description": "Warmherziges Roadmovie über Freundschaft, Freiheit und einen großen Traum.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "About Time",
-    "platform": "Netflix",
-    "genre": "Romantik / Komödie / Fantasy",
-    "description": "Romantische Geschichte über Zeit, Familie und die Bedeutung alltäglicher Momente.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Nice Guys",
-    "platform": "Netflix",
-    "genre": "Komödie / Krimi",
-    "description": "Schwarzhumorige Detektivkomödie mit chaotischem Ermittlerduo.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Game Night",
-    "platform": "Netflix",
-    "genre": "Komödie / Krimi",
-    "description": "Ein Spieleabend entwickelt sich zu einem rasanten echten Kriminalfall.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Chef",
-    "platform": "Prime",
-    "genre": "Komödie / Drama",
-    "description": "Wohlfühlfilm über Essen, Familie und einen beruflichen Neuanfang.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Sing Street",
-    "platform": "Prime",
-    "genre": "Musik / Komödie / Drama",
-    "description": "Coming-of-Age über Musik, erste Liebe und den Mut, etwas Eigenes zu schaffen.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Secret Life of Walter Mitty",
-    "platform": "Netflix",
-    "genre": "Abenteuer / Komödie / Drama",
-    "description": "Inspirierendes Abenteuer über den Schritt aus dem Alltag ins echte Leben.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Begin Again",
-    "platform": "Prime",
-    "genre": "Musik / Romantik / Drama",
-    "description": "Musik verbindet zwei Menschen in einer Geschichte über Neuanfang und Kreativität.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Intern",
-    "platform": "Netflix",
-    "genre": "Komödie / Drama",
-    "description": "Generationen treffen in einer charmanten Arbeitsplatzkomödie aufeinander.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Stardust",
-    "platform": "Prime",
-    "genre": "Fantasy / Romantik / Abenteuer",
-    "description": "Märchenhaftes Abenteuer voller Magie, Romantik und britischem Humor.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Instant Family",
-    "platform": "Netflix",
-    "genre": "Komödie / Familie / Drama",
-    "description": "Eine Familie wächst auf unerwartete und turbulente Weise zusammen.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "The Way Way Back",
-    "platform": "Prime",
-    "genre": "Coming-of-Age / Komödie / Drama",
-    "description": "Sommerliche Coming-of-Age-Geschichte über Selbstvertrauen und Zugehörigkeit.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  },
-  {
-    "title": "Safety Not Guaranteed",
-    "platform": "Prime",
-    "genre": "Komödie / Romantik / Sci-Fi",
-    "description": "Skurrile Indie-Geschichte über eine ungewöhnliche Anzeige und die Möglichkeit von Zeitreisen.",
-    "streamingUrl": "",
-    "type": "Vorschlag"
-  }
-]
+{
+  "generated_at": "2026-09-22T19:07:10+00:00",
+  "source": "initial-package",
+  "movies": [
+    {
+      "id": "seed-01",
+      "title": "The Fundamentals of Caring",
+      "year": 2016,
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "description": "Warmherziges Roadmovie über Freundschaft, Verantwortung und neue Perspektiven.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-02",
+      "title": "The Big Sick",
+      "year": 2017,
+      "genres": [
+        "Romantik",
+        "Komödie"
+      ],
+      "rating": 7.5,
+      "description": "Eine ungewöhnliche Liebesgeschichte zwischen Familie, Kultur und einer ernsten Krise.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-03",
+      "title": "Brittany Runs a Marathon",
+      "year": 2019,
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 6.8,
+      "description": "Eine junge Frau krempelt ihr Leben um – humorvoll, direkt und menschlich.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-04",
+      "title": "The Farewell",
+      "year": 2019,
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "rating": 7.5,
+      "description": "Feinfühliges Familiendrama mit leisem Humor und kulturellen Spannungen.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-05",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "genres": [
+        "Komödie",
+        "Abenteuer"
+      ],
+      "rating": 7.8,
+      "description": "Schräges und herzliches Abenteuer über ein ungleiches Duo in der Wildnis.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-06",
+      "title": "The Peanut Butter Falcon",
+      "year": 2019,
+      "genres": [
+        "Drama",
+        "Abenteuer"
+      ],
+      "rating": 7.6,
+      "description": "Warmherziges Roadmovie über Freundschaft, Freiheit und einen großen Traum.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-07",
+      "title": "About Time",
+      "year": 2013,
+      "genres": [
+        "Romantik",
+        "Komödie",
+        "Fantasy"
+      ],
+      "rating": 7.8,
+      "description": "Romantische Geschichte über Zeit, Familie und die Bedeutung alltäglicher Momente.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-08",
+      "title": "The Nice Guys",
+      "year": 2016,
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "rating": 7.4,
+      "description": "Schwarzhumorige Detektivkomödie mit einem herrlich chaotischen Ermittlerduo.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-09",
+      "title": "Game Night",
+      "year": 2018,
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "rating": 6.9,
+      "description": "Ein Spieleabend entwickelt sich zu einem rasanten echten Kriminalfall.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-10",
+      "title": "Chef",
+      "year": 2014,
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "description": "Wohlfühlfilm über Essen, Familie und einen beruflichen Neuanfang.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-11",
+      "title": "Sing Street",
+      "year": 2016,
+      "genres": [
+        "Musik",
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.9,
+      "description": "Coming-of-Age über Musik, erste Liebe und den Mut, etwas Eigenes zu schaffen.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-12",
+      "title": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "genres": [
+        "Abenteuer",
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "description": "Inspirierendes Abenteuer über den Schritt aus dem Alltag ins echte Leben.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-13",
+      "title": "Begin Again",
+      "year": 2013,
+      "genres": [
+        "Musik",
+        "Romantik",
+        "Drama"
+      ],
+      "rating": 7.4,
+      "description": "Musik verbindet zwei Menschen in einer Geschichte über Neuanfang und Kreativität.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-14",
+      "title": "The Intern",
+      "year": 2015,
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.1,
+      "description": "Generationen treffen in einer charmanten Arbeitsplatzkomödie aufeinander.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-15",
+      "title": "Stardust",
+      "year": 2007,
+      "genres": [
+        "Fantasy",
+        "Romantik",
+        "Abenteuer"
+      ],
+      "rating": 7.6,
+      "description": "Märchenhaftes Abenteuer voller Magie, Romantik und britischem Humor.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-16",
+      "title": "Instant Family",
+      "year": 2018,
+      "genres": [
+        "Komödie",
+        "Familie",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "description": "Eine Familie wächst auf unerwartete und turbulente Weise zusammen.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-17",
+      "title": "The Way Way Back",
+      "year": 2013,
+      "genres": [
+        "Coming-of-Age",
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.4,
+      "description": "Sommerliche Geschichte über Selbstvertrauen, Zugehörigkeit und Freundschaft.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-18",
+      "title": "Safety Not Guaranteed",
+      "year": 2012,
+      "genres": [
+        "Komödie",
+        "Romantik",
+        "Sci-Fi"
+      ],
+      "rating": 6.9,
+      "description": "Skurrile Indie-Geschichte über eine ungewöhnliche Anzeige und mögliche Zeitreisen.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-19",
+      "title": "Little Miss Sunshine",
+      "year": 2006,
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "description": "Eine eigenwillige Familie macht sich gemeinsam auf einen turbulenten Roadtrip.",
+      "kind": "Startvorschlag"
+    },
+    {
+      "id": "seed-20",
+      "title": "Moonrise Kingdom",
+      "year": 2012,
+      "genres": [
+        "Romantik",
+        "Komödie",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "description": "Verspielte Geschichte über junge Liebe, Außenseiter und ein kleines Abenteuer.",
+      "kind": "Startvorschlag"
+    }
+  ]
+}
