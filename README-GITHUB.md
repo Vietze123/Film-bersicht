@@ -3,7 +3,7 @@
 Dieses Paket ist für das separate GitHub-Repository der Sonderedition gedacht.
 
 ## Enthalten
-- `index.html` – Sonderedition ohne Mausig-Modus, 200 Filme
+- `index.html` – Sonderedition ohne Designmodus, 200 Filme
 - `movies.json` – dieselben 200 Filme im von der App erwarteten JSON-Format
 - `suggestions.json` – Startbestand für „Neue Filme“
 - `scripts/update_suggestions.py` – automatische TMDB-Suche
