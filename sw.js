@@ -1,4 +1,4 @@
-const CACHE = 'maeuse-sonderedition-s1';
+const CACHE = 'filmliste-sonderedition-s1';
 const CORE = [
   './',
   './index.html',

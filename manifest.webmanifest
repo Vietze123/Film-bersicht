@@ -1,6 +1,6 @@
 {
-  "name": "Filmliste gegen Mäuse-Langweiligkeit – Sonderedition",
-  "short_name": "Mäuse-Filmliste",
+  "name": "Deine persönliche Filmliste – Sonderedition",
+  "short_name": "Filmliste",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

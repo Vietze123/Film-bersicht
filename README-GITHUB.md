@@ -1,4 +1,4 @@
-# Filmliste gegen Mäuse-Langweiligkeit – Sonderedition
+# Deine persönliche Filmliste – Sonderedition
 
 Dieses Paket ist für das separate GitHub-Repository der Sonderedition gedacht.
 
